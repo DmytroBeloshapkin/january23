@@ -1,7 +1,9 @@
+import {Characters} from "./components/characters/Characters";
+
 function App() {
   return (
     <div>
-      app
+      <Characters/>
     </div>
   );
 }
